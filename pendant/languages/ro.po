@@ -1,0 +1,339 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Pendant\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-08-29T04:31:06+00:00\n"
+"PO-Revision-Date: 2024-08-27 15:30:33+0000\n"
+"Language: ro\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < 20)) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: styles/pink.json
+msgctxt "Style variation name"
+msgid "Pink"
+msgstr "Roz"
+
+#: styles/electric-blue.json
+msgctxt "Style variation name"
+msgid "Electric Blue"
+msgstr "Albastru electric"
+
+#: styles/dark-navy.json
+msgctxt "Font family name"
+msgid "Headings"
+msgstr "Titluri"
+
+#: styles/dark-navy.json
+msgctxt "Font family name"
+msgid "Body"
+msgstr "Corp"
+
+#: styles/dark-navy.json
+msgctxt "Style variation name"
+msgid "Dark Navy"
+msgstr "Albastru marin închis"
+
+#: patterns/team.php
+msgctxt "Pattern title"
+msgid "Team"
+msgstr "Echipă"
+
+#: patterns/post-navigation.php
+msgctxt "Pattern title"
+msgid "Post Navigation"
+msgstr "Navigare în articole"
+
+#: patterns/media-and-text.php
+msgctxt "Pattern title"
+msgid "Media & Text"
+msgstr "Media și text"
+
+#: patterns/latest-interviews.php
+#: patterns/post-topics.php
+msgctxt "Pattern title"
+msgid "Posts and Topics"
+msgstr "Articole și subiecte"
+
+#: patterns/latest-articles.php
+msgctxt "Pattern title"
+msgid "Latest Articles"
+msgstr "Ultimele articole"
+
+#: patterns/image-series.php
+msgctxt "Pattern title"
+msgid "Our Picks"
+msgstr "Alegerile noastre"
+
+#: patterns/image-gallery.php
+msgctxt "Pattern title"
+msgid "Gallery"
+msgstr "Galerie"
+
+#: patterns/image-and-quote.php
+msgctxt "Pattern title"
+msgid "Image & Quote"
+msgstr "Imagine și citat"
+
+#: patterns/hero.php
+msgctxt "Pattern title"
+msgid "Home Page Hero"
+msgstr "Pagină de pornire Hero"
+
+#: patterns/grid-of-posts.php
+msgctxt "Pattern title"
+msgid "Grid of Posts"
+msgstr "Grilă cu articole"
+
+#: patterns/footer.php
+msgctxt "Pattern title"
+msgid "Default footer"
+msgstr "Subsol implicit"
+
+#: patterns/404.php
+msgctxt "Pattern title"
+msgid "A 404 page"
+msgstr "O pagină 404"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Footer Only"
+msgstr "Numai subsol"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Header and Footer Only"
+msgstr "Numai antet și subsol"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Blank"
+msgstr "Pagină goală"
+
+#: styles/dark-navy.json
+#: styles/electric-blue.json
+#: styles/pink.json
+#: theme.json
+msgctxt "Color name"
+msgid "Tertiary"
+msgstr "Terță"
+
+#: styles/dark-navy.json
+#: styles/electric-blue.json
+#: styles/pink.json
+#: theme.json
+msgctxt "Color name"
+msgid "Background"
+msgstr "Fundal"
+
+#: styles/dark-navy.json
+#: styles/electric-blue.json
+#: styles/pink.json
+#: theme.json
+msgctxt "Color name"
+msgid "Foreground"
+msgstr "Prim-plan"
+
+#: styles/dark-navy.json
+#: styles/electric-blue.json
+#: styles/pink.json
+#: theme.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr "Principală"
+
+#: styles/electric-blue.json
+#: styles/pink.json
+#: theme.json
+msgctxt "Font family name"
+msgid "Headings (System Font)"
+msgstr "Titluri (System Font)"
+
+#: styles/electric-blue.json
+#: styles/pink.json
+#: theme.json
+msgctxt "Font family name"
+msgid "Body (System Font)"
+msgstr "Corp (System Font)"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Large"
+msgstr "Foarte mare"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr "Mare"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr "Mediu"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr "Mic"
+
+#. Description of the theme
+#: style.css
+msgid "An elegant product-focused theme."
+msgstr "O temă elegantă axată pe produse"
+
+#: patterns/team.php:80
+msgid "Marketing &amp; Social Media"
+msgstr "Marketing și media socială"
+
+#: patterns/team.php:76
+msgid "Ryan"
+msgstr "Ryan"
+
+#: patterns/team.php:64
+msgid "Editor &amp; Public Relations"
+msgstr "Editor și relații publice"
+
+#: patterns/team.php:60
+msgid "Tanya"
+msgstr "Tanya"
+
+#: patterns/team.php:46
+msgid "Writer, Editor &amp; Jewelry Designer"
+msgstr "Scriitor, editor și designer de bijuterii"
+
+#: patterns/team.php:30
+msgid "Editor &amp; Jeweler"
+msgstr "Editor și bijutier"
+
+#: patterns/team.php:26
+msgid "Marie"
+msgstr "Marie"
+
+#: patterns/team.php:14
+msgid "The Team"
+msgstr "Echipa"
+
+#: patterns/post-topics.php:11
+msgid "Popular Topics"
+msgstr "Subiecte populare"
+
+#: patterns/post-navigation.php:20
+msgid "Next Post"
+msgstr "Articolul următor"
+
+#: patterns/post-navigation.php:12
+msgid "Previous Post"
+msgstr "Articolul anterior"
+
+#: patterns/media-and-text.php:28
+msgid "“The more I learn about jewelry and dive into its history, the more I love it. Getting to know the meanings behind objects in particular moments in time, how they translated into status, wealth or power. Jewelry has always been a way to communicate and distinguish and with the evolution of society, it turned into another way of expression, like clothing. I’m passionate about how we use it to express who we really are.”"
+msgstr "„Cu cât aflu mai multe despre bijuterii și aprofundez istoria lor, cu atât îmi plac mai mult. Ajung să cunosc semnificațiile din spatele obiectelor în anumite momente din timp, modul în care acestea s-au tradus în stare, bogăție sau putere. Bijuteriile au fost întotdeauna un mod de a comunica și de a te distinge, iar odată cu evoluția societății, s-au transformat într-un alt mod de exprimare și apreciere, la fel ca hainele. Sunt pasionată de modul în care le folosim pentru a exprima cine suntem cu adevărat.”"
+
+#: patterns/media-and-text.php:24
+msgid "Mia Moore, Jewelry lover"
+msgstr "Mia Moore, iubitoare de bijuterii"
+
+#: patterns/media-and-text.php:14
+msgid "About"
+msgstr "Despre"
+
+#: patterns/latest-interviews.php:31
+msgid "Q&amp;A with Andrew Holsen, handmaker"
+msgstr "Întrebări și răspunsuri cu Andrew Holsen, artizan"
+
+#: patterns/latest-interviews.php:21
+msgid "Q&amp;A with Lana DeVito, Jewelry designer"
+msgstr "Întrebări și răspunsuri cu Lana DeVito, designer de bijuterii"
+
+#: patterns/latest-interviews.php:11
+msgid "Latest Interviews"
+msgstr "Ultimele interviuri"
+
+#: patterns/latest-articles.php:17
+msgid "Read All"
+msgstr "Citește tot"
+
+#: patterns/latest-articles.php:13
+msgid "Latest Articles"
+msgstr "Ultimele articole"
+
+#: patterns/image-series.php:12
+msgid "Our Picks"
+msgstr "Alegerile noastre"
+
+#: patterns/image-gallery.php:15
+msgid "What We're Loving"
+msgstr "Ce ne place"
+
+#: patterns/image-and-quote.php:16
+msgid "Marie, editor for PNDNT"
+msgstr "Marie, editor pentru PNDNT"
+
+#: patterns/image-and-quote.php:15
+msgid "\"We’re very lucky to be able to write about our passion and interview those whose work we admire.\""
+msgstr "„Suntem foarte norocoși că putem să scriem despre pasiunea noastră și să îi intervievăm pe cei cărora le admirăm munca.”"
+
+#: patterns/hero.php:30
+msgid "Explore"
+msgstr "Explorează"
+
+#: patterns/hero.php:25
+msgid "October Finds"
+msgstr "Descoperiri din octombrie"
+
+#: patterns/footer.php:18
+msgid "Powered by"
+msgstr "Propulsat de"
+
+#: patterns/404.php:27
+msgid "Search"
+msgstr "Caută"
+
+#: patterns/404.php:27
+msgid "Search…"
+msgstr "Caută..."
+
+#: patterns/404.php:23
+msgid "This page could not be found. Try searching posts using the search field."
+msgstr "Această pagină nu poate fi găsită. Încearcă să cauți în articole folosind câmpul de căutare."
+
+#: patterns/404.php:12
+msgid "There's nothing here."
+msgstr "Nu există nimic aici."
+
+#: functions.php:73
+msgid "Gallery"
+msgstr "Galerie"
+
+#: functions.php:72
+msgid "Images"
+msgstr "Fotografii"
+
+#: functions.php:71
+msgid "List"
+msgstr "Listă"
+
+#: functions.php:70
+msgid "Quotes"
+msgstr "Citate"
+
+#: functions.php:69
+msgid "Media"
+msgstr "Media "
+
+#: functions.php:68
+msgid "Call to Action"
+msgstr "Apel la acțiune"
+
+#: functions.php:67
+msgid "Query"
+msgstr "Interogare"
+
+#: functions.php:66
+#: patterns/hero.php:21
+msgid "Featured"
+msgstr "Reprezentativ"
